@@ -1,0 +1,6 @@
+endpoint-1	endpoint-2	distance-in-kilometers	road-name
+0	1	1.000	A
+1	2	1.000	B
+0	2	1.000	C
+1	3	2.000	Foo
+2	3	2.000	Bar
